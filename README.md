@@ -2,6 +2,7 @@
 Respostas da prova do processo seletivo da ADA
 
 //PRIMEIRA QUESTÃO
+```
 function primo(){
     var numero = parseInt(document.getElementById('numero').value);
     var resposta = document.getElementById('resposta');
@@ -23,6 +24,7 @@ if (numero <= 0){
         }
     }
 }
+```
 
 //SEGUNDA QUESTÃO
 d. false
